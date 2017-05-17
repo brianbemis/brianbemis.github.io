@@ -73,5 +73,19 @@ div.clth a {
 }
 
 p {
-margin:auto;
+font-size: 22;
+width:750px;
+border: 0px solid #FF4500; 
+padding: 15px;  
+text-align: justify;
+text-justify: inter-word;
+    
+}
+
+.box {
+position: absolute;
+width:750px;
+border: 6px solid #FF4500; 
+padding: 15px;    
+    
 }
